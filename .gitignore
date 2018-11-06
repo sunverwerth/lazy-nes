@@ -1,0 +1,7 @@
+.vs
+Debug
+Release
+*.dump
+*.nes
+*.bin
+*.user
