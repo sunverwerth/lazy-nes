@@ -21,13 +21,19 @@
     <ClCompile Include="cpu.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="memory.cpp">
+    <ClCompile Include="ppu.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="vic.cpp">
+    <ClCompile Include="mem.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="cia.cpp">
+    <ClCompile Include="bus.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="pak.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="apu.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,13 +41,19 @@
     <ClInclude Include="cpu.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="memory.h">
+    <ClInclude Include="ppu.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="vic.h">
+    <ClInclude Include="mem.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="cia.h">
+    <ClInclude Include="bus.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="pak.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="apu.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
